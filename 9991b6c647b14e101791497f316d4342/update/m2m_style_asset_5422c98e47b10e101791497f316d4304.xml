@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset">
+    <m2m_style_asset action="INSERT_OR_UPDATE">
+        <asset display_value="ricky-pdi-high-resolution-logo-transparent_small">00220d0e47710e101791497f316d4349</asset>
+        <properties>{
+  "position": "header_logo"
+}</properties>
+        <style display_value="Imagery">4d01414e47710e101791497f316d434f</style>
+        <sys_class_name>m2m_style_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:14:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5422c98e47b10e101791497f316d4304</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ricky Custom Theme">9991b6c647b14e101791497f316d4342</sys_scope>
+        <sys_update_name>m2m_style_asset_5422c98e47b10e101791497f316d4304</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 22:24:02</sys_updated_on>
+    </m2m_style_asset>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Ricky Custom Theme">9991b6c647b14e101791497f316d4342</claim_owner_scope>
+        <claim_timestamp>18f21a881000000001</claim_timestamp>
+        <metadata_update_name>m2m_style_asset_5422c98e47b10e101791497f316d4304</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Ricky Custom Theme</previous_claim_name>
+        <previous_claim_scope>9991b6c647b14e101791497f316d4342</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 22:24:02</sys_created_on>
+        <sys_id>e932bace47b14e101791497f316d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 22:24:02</sys_updated_on>
+    </sys_claim>
+</record_update>
