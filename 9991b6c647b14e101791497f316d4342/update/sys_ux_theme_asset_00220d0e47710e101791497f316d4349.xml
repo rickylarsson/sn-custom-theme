@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>ricky-pdi-high-resolution-logo-transparent_small</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:14:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>00220d0e47710e101791497f316d4349</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ricky-pdi-high-resolution-logo-transparent_small</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ricky Custom Theme">9991b6c647b14e101791497f316d4342</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_00220d0e47710e101791497f316d4349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 22:24:03</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ricky-pdi-high-resolution-logo-transparent_small.png</file_name>
+        <hash>92828713d0cfce328499484a6ee25a5ba279dc67b671f38bed796466ac710b27</hash>
+        <image_height>49</image_height>
+        <image_width>300</image_width>
+        <size_bytes>5504</size_bytes>
+        <size_compressed>5527</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:14:20</sys_created_on>
+        <sys_id>50220d0e47710e101791497f316d434c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:14:20</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>00220d0e47710e101791497f316d4349</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="ricky-pdi-high-resolution-logo-transparent_small.png" sys_id="50220d0e47710e101791497f316d434c">50220d0e47710e101791497f316d434c</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:14:20</sys_created_on>
+        <sys_id>90220d0e47710e101791497f316d434c</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>7356</length>
+        <position>1</position>
+        <sys_attachment display_value="ricky-pdi-high-resolution-logo-transparent_small.png" sys_id="50220d0e47710e101791497f316d434c">50220d0e47710e101791497f316d434c</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:14:20</sys_created_on>
+        <sys_id>14220d0e47710e101791497f316d434c</sys_id>
+    </sys_attachment_doc>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Ricky Custom Theme">9991b6c647b14e101791497f316d4342</claim_owner_scope>
+        <claim_timestamp>18f21a8840e0000001</claim_timestamp>
+        <metadata_update_name>sys_ux_theme_asset_00220d0e47710e101791497f316d4349</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Ricky Custom Theme</previous_claim_name>
+        <previous_claim_scope>9991b6c647b14e101791497f316d4342</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 22:24:03</sys_created_on>
+        <sys_id>3d32face47b14e101791497f316d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 22:24:03</sys_updated_on>
+    </sys_claim>
+</record_update>
